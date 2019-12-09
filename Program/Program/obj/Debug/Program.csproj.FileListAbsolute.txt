@@ -1,0 +1,7 @@
+C:\Users\jg153184\Desktop\C# Projects\Chapter 5\Program\Program\bin\Debug\Program.exe.config
+C:\Users\jg153184\Desktop\C# Projects\Chapter 5\Program\Program\bin\Debug\Program.exe
+C:\Users\jg153184\Desktop\C# Projects\Chapter 5\Program\Program\bin\Debug\Program.pdb
+C:\Users\jg153184\Desktop\C# Projects\Chapter 5\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\jg153184\Desktop\C# Projects\Chapter 5\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\jg153184\Desktop\C# Projects\Chapter 5\Program\Program\obj\Debug\Program.exe
+C:\Users\jg153184\Desktop\C# Projects\Chapter 5\Program\Program\obj\Debug\Program.pdb
